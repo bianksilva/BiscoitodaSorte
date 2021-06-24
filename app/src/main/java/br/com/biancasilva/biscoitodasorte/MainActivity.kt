@@ -9,7 +9,7 @@ import kotlin.random.Random
 
 class MainActivity : AppCompatActivity() {
 
-    //tentando criar uma lista
+        //criando lista de frases
     val listaFrases = arrayOf("A vida é como diria Avril Lavigne: Complicated.",
         "Acredite na sua capacidade de estragar tudo!","Sei lá meu bem, fé!","Calma, ainda pode piorar!",
         "Sério que você espera algo bom ainda?","Você vai estragar esse botão.","Sorte do dia? Se toca!",
